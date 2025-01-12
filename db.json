@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "admin@example.com",
+      "password": "Admin@123"
+    }
+  ],
+  "routes": {
+    "/login": "/users"
+  }
+}
